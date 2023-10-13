@@ -1,0 +1,5 @@
+mpremote
+adafruit-ampy
+pynng
+machine
+ujson
