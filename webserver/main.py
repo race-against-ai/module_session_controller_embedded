@@ -38,5 +38,3 @@ while True:
 
     # Add a small delay to avoid unnecessary CPU usage
     time.sleep(0.1)
-
-
